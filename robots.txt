@@ -1,4 +1,4 @@
-# robots.txt zu http://eckis-nachlass.github.io/eckis-nachlass/
+# robots.txt zu http://eckis-nachlass.github.io/
 
 User-agent: *
 Disallow: /
